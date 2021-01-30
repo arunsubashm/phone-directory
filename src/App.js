@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 
-function App() {
+class App extends Component {
   render() {
-  return (
-    <div>
+    return (
+      <div>
         Phone Directory
-    </div>
-  );
+      </div>
+    );
   }
 }
 
